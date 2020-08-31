@@ -2,14 +2,6 @@
     mattmoody05
 </h1>
 <h2>
-    Github Statistics
-</h2>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mattmoody05&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mattmoody05&show_icons=true)
-
-
-<h2>
     Languages and tools
 </h2>
 <p>
@@ -31,3 +23,7 @@
 <p>
     <img align="left" src="https://img.icons8.com/dusk/24/000000/discord-logo.png"/>Discord - matt_#9345
 </p>
+<h2>
+    Github Statistics
+</h2>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mattmoody05&)](https://github.com/anuraghazra/github-readme-stats)
