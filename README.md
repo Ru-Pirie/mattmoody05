@@ -6,12 +6,12 @@
 </h2>
 <p>    
     <ul>
-        <li><img align="left" src="https://img.icons8.com/dusk/24/000000/github.png"/></li>
-        <li><img align="left" src="https://img.icons8.com/dusk/24/000000/physics.png"/></li>
-        <li><img align="left" src="https://img.icons8.com/dusk/24/000000/visual-studio-code-2019.png"/></li>
-        <li><img align="left" src="https://img.icons8.com/dusk/24/000000/python.png"/></li>
-        <li><img align="left" src="https://img.icons8.com/dusk/24/000000/html-5.png"/></li>
-        <li><img align="left" src="https://img.icons8.com/dusk/24/000000/google-code.png"/></li>
+        <li><img align="left" src="https://img.icons8.com/dusk/24/000000/github.png"/>Github</li>
+        <li><img align="left" src="https://img.icons8.com/dusk/24/000000/physics.png"/>Atom</li>
+        <li><img align="left" src="https://img.icons8.com/dusk/24/000000/visual-studio-code-2019.png"/>Visual Studio Code</li>
+        <li><img align="left" src="https://img.icons8.com/dusk/24/000000/python.png"/>Python 3</li>
+        <li><img align="left" src="https://img.icons8.com/dusk/24/000000/html-5.png"/>HTML</li>
+        <li><img align="left" src="https://img.icons8.com/dusk/24/000000/google-code.png"/>Visual Basic</li>
     </ul>
 <br>
 </p>
