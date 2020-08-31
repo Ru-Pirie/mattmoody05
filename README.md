@@ -5,7 +5,7 @@
     Languages and tools
 </h2>
 <p>    
-<img align="left" src="https://img.icons8.com/dusk/24/000000/github.png"/>Github <br> <img align="left" src="https://img.icons8.com/dusk/24/000000/physics.png"></img>Atom
+<img align="left" src="https://img.icons8.com/dusk/24/000000/github.png"/>Github <img align="left" src="https://img.icons8.com/dusk/24/000000/physics.png"></img>Atom
 <br>
 <img align="left" src="https://img.icons8.com/dusk/24/000000/visual-studio-code-2019.png"></img>Visual Studio Code
 <br>
