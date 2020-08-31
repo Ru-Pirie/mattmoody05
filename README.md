@@ -11,6 +11,7 @@
 <img align="left" src="https://img.icons8.com/dusk/24/000000/python.png"/>
 <img align="left" src="https://img.icons8.com/dusk/24/000000/html-5.png"/>
 <img align="left" src="https://img.icons8.com/dusk/24/000000/google-code.png"/>
+<br>
 </p>
 <h2>
     Socials
