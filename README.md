@@ -10,7 +10,7 @@
 <p>
     Atom
     <br>
-    <img align="left" src="https://img.icons8.com/dusk/32/000000/visual-studio-code-2019.png"></img>Visual Studio Code
+    <img align="left" src="https://img.icons8.com/dusk/24/000000/visual-studio-code-2019.png"></img>Visual Studio Code
     <br>
     Python 3
     <br>
