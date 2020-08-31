@@ -5,7 +5,9 @@
     Github Statistics
 </h2>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mattmoody05)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mattmoody05&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mattmoody05&show_icons=true)
+
 
 <h2>
     Languages and tools
