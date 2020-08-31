@@ -13,13 +13,14 @@
         <li><img align="left" src="https://img.icons8.com/dusk/24/000000/html-5.png"/>HTML</li>
         <li><img align="left" src="https://img.icons8.com/dusk/24/000000/google-code.png"/>Visual Basic</li>
     </ul>
-<br>
 </p>
 <h2>
     Socials
 </h2>
 <p>
-    <img align="left" src="https://img.icons8.com/dusk/24/000000/discord-logo.png"/>matt_#9345
+    <ul>
+        <li><img align="left" src="https://img.icons8.com/dusk/24/000000/discord-logo.png"/>Discord - matt_#9345</li>
+    </ul>
 </p>
 <h2>
     Github Statistics
