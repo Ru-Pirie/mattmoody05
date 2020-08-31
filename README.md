@@ -19,7 +19,7 @@
 </h2>
 <p>
     <ul>
-        <li><img align="left" src="https://img.icons8.com/dusk/32/000000/discord-logo.png"/>Discord - matt_#9345</li>
+        <li><img align="left" src="https://img.icons8.com/dusk/24/000000/discord-logo.png"/>Discord - matt_#9345</li>
     </ul>
 </p>
 <h2>
