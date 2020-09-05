@@ -12,6 +12,7 @@
         <li><img align="left" src="https://img.icons8.com/dusk/24/000000/python.png"/>Python 3</li>
         <li><img align="left" src="https://img.icons8.com/dusk/24/000000/html-5.png"/>HTML</li>
         <li><img align="left" src="https://img.icons8.com/dusk/24/000000/google-code.png"/>Visual Basic</li>
+        <li><img align="left" src="https://img.icons8.com/dusk/24/000000/discord-logo.png"/>Discord.py</li>
     </ul>
 </p>
 <h2>
