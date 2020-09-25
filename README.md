@@ -1,6 +1,9 @@
 <h1>
     mattmoody05
 </h1>
+<p>
+   hey! I'm Matthew from the uk, currently studying computer science. I'm just trying to get my computer to do what I tell it. 
+</p>
 <h2>
     Languages and tools
 </h2>
