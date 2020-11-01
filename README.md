@@ -15,6 +15,7 @@
         <li><img align="left" src="https://img.icons8.com/dusk/24/000000/html-5.png"/>HTML5</li>
         <li><img align="left" src="https://img.icons8.com/dusk/24/000000/css3.png"/>CSS3</li>
         <li><img align="left" src="https://img.icons8.com/dusk/24/000000/discord-logo.png"/>Discord.py</li>
+        <li><img align="left" src="https://img.icons8.com/dusk/24/000000/mac-logo--v2.png"/>13" 2011 MacBook Pro</li>
     </ul>
 </p>
 <h2>
